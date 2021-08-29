@@ -1,5 +1,5 @@
 This repository contains my solutions to some Circle Packing problems.
-The solutions are the best that my algorithms can provide.
+The solutions are optimized using the [Ring2D](https://nest2d.com/ring2d/) software, they are the best that the algorithms can provide.
 
 ### Circles in circle container
 #### "Magic" numbers that form complete "layers" in circle container
