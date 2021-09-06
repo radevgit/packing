@@ -8,6 +8,7 @@ The solutions are optimized using the [Ring2D](https://nest2d.com/ring2d/) softw
 91 (r=10.56677) ![91](circle/magic/magic091.png)
 
 127(r=12.4747) ![127](circle/magic/magic127.png)
+
 - 
 -
 -
